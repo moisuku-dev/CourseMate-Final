@@ -1,6 +1,6 @@
 전부 zip으로 다운 받은 후 , 압축 풀기 이후
 
-0. 깃허브에 있는 final_backup.sql 을 사용해 coursemate DB 생성
+0. 톡방의 1210_backup.sql 을 사용해 coursemate DB 생성
   
 1. backend에서 npm install이랑 .env 자신 DB, 환경설정에 맞춰서 변경
 
